@@ -52,5 +52,5 @@ Feel free to contribute by forking the repository and submitting pull requests. 
 
 
 ---
-📧 **Contact**: If you have any questions, reach out to [your-email@example.com].
+📧 **Contact**: If you have any questions, reach out to [prathu031105@gmail.com].
 
