@@ -11,7 +11,7 @@ The **Restaurant Management System** is a C-based console application designed t
 ## Technologies Used
 - **Programming Language**: C
 - **File Handling**: Used for storing and retrieving order details
-- **Standard Library Functions**: `stdio.h`, `stdlib.h`, `string.h`
+- **Standard Library Functions**: `stdio.h`, `time.h`, `string.h`
 
 ## Installation & Setup
 1. **Clone the Repository**
